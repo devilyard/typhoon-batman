@@ -1,6 +1,6 @@
 # typhoon-batman
 
-typhoon-batman is a java mqtt client for v3.1 and v3.1.1, support socket, socket with ssl, web scoket and secure web socket protocol.
+typhoon-batman is a java mqtt client for v3.1 and v3.1.1, supports socket, socket with ssl, web scoket and secure web socket protocol.
 
 ## how to begin?
 
