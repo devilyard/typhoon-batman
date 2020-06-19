@@ -12,6 +12,7 @@ import io.github.batman.client.network.MqttConnectOptions;
 import org.junit.Test;
 
 import java.util.concurrent.CountDownLatch;
+import java.util.concurrent.TimeUnit;
 
 /**
  * @author C.
@@ -28,6 +29,6 @@ public class Tester {
         options.setAutomaticReconnect(true);
         client.connect(options);
 
-        new CountDownLatch(1).await();
+        new CountDownLatch(1).await(2, TimeUnit.SECONDS);
     }
 }

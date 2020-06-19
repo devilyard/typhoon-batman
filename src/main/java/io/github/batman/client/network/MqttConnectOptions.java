@@ -10,7 +10,6 @@ package io.github.batman.client.network;
 import io.github.batman.MqttQoS;
 import io.github.batman.client.TopicToken;
 import io.github.batman.client.message.*;
-import org.typhoon.batman.client.message.*;
 
 import javax.net.SocketFactory;
 import javax.net.ssl.HostnameVerifier;

@@ -15,8 +15,6 @@ import io.github.batman.client.store.SessionStore;
 import org.apache.commons.lang3.StringUtils;
 import io.github.batman.Constants;
 import io.github.batman.MqttQoS;
-import org.typhoon.batman.client.handler.inbound.*;
-import org.typhoon.batman.client.handler.outbound.*;
 import io.github.batman.client.message.MqttMessage;
 import io.github.batman.client.message.MqttMessageType;
 import io.github.batman.client.message.MqttVersion;

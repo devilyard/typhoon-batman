@@ -9,7 +9,6 @@ package io.github.batman.client;
 import io.github.batman.client.handler.outbound.*;
 import io.github.batman.client.network.MqttConnectOptions;
 import io.github.batman.MqttQoS;
-import org.typhoon.batman.client.handler.outbound.*;
 
 import java.util.concurrent.TimeUnit;
 

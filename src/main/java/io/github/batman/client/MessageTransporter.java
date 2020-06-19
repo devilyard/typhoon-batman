@@ -15,9 +15,6 @@ import io.github.batman.client.network.*;
 import io.github.batman.client.store.SessionStore;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.typhoon.batman.client.handler.outbound.*;
-import org.typhoon.batman.client.message.*;
-import org.typhoon.batman.client.network.*;
 
 import java.io.IOException;
 import java.io.InputStream;
