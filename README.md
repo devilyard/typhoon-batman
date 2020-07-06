@@ -7,7 +7,7 @@ integrate with maven
 ```xml
 <dependency>
   <groupId>io.github.devilyard</groupId>
-  <artifactId>typhoon-batman</artifactId>
+  <artifactId>typhoon-mqtt-batman</artifactId>
   <version>3.0</version>
 </dependency>
 ```
