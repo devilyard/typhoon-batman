@@ -1,13 +1,13 @@
-# typhoon-batman
+# typhoon-mqtt-batman
 
-typhoon-batman is a java mqtt client for v3.1 and v3.1.1, supports socket, socket with ssl, web scoket and secure web socket protocol.
+typhoon-mqtt-batman is a java mqtt client for v3.1 and v3.1.1, supports socket, socket with ssl, web scoket and secure web socket protocol.
 
 ## installation
 integrate with maven
 ```xml
 <dependency>
   <groupId>io.github.devilyard</groupId>
-  <artifactId>typhoon-mqtt-batman</artifactId>
+  <artifactId>typhoon-batman</artifactId>
   <version>3.0</version>
 </dependency>
 ```
